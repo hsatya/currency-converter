@@ -9,6 +9,10 @@ This is a simple React currency converter app that allows you to convert currenc
 - Swap between input and output currencies.
 - Responsive design for various screen sizes.
 
+## Live at
+
+You can try the app live [here](https://currency-converter-hs-v1.netlify.app/).
+
 ## Installation
 
 cd react-currency-converter
