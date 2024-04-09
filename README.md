@@ -48,7 +48,7 @@ cd react-currency-converter
 
    ```
 
-2. Open your browser and go to http://localhost:3000 to view the app.
+2. Open your browser and go to http://localhost:5173 to view the app.
 3. Enter the amount you want to convert and select the input and output currencies.
 4. Click the "Convert" button to see the converted amount.
 
